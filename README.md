@@ -1,3 +1,7 @@
+QUICKNOTE RF Fork: no code changes, purely copy-and-modification of test directory
+into one called apiexamples where the test code is commented and refactored for
+standalone api usage. 
+
 HTSlib is an implementation of a unified C library for accessing common file
 formats, such as [SAM, CRAM and VCF][1], used for high-throughput sequencing
 data, and is the core library used by [samtools][2] and [bcftools][3].

@@ -1,4 +1,4 @@
-QUICKNOTE RF Fork: no code changes, purely copy-and-modification of test directory
+QUICKNOTE RF Fork of "develop" branch: no code changes, purely copy-and-modification of test directory
 into one called apiexamples where the test code is commented and refactored for
 standalone api usage. 
 
